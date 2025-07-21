@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Responsive Restaurant Website',
     description: "A fully responsive restaurant built with react and vanilla CSS.",
-      image: '/images/1.png',
+      image: '/images/gericht.png',
       tags: ['React', 'Javascript', 'Grid', 'Flex'],
     source: 'https://vercel.com/peter-olawumis-projects/gericht_restaurant/8V1WMXppZ5EzGkDVfE8LWiobChQ9/source',
     visit: 'https://gerichtrestaurant-jyou5ulvd-peter-olawumis-projects.vercel.app/',
