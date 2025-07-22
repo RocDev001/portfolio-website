@@ -31,7 +31,7 @@ export const projects = [
     description: "A Simple Interest Calculator built with HTML, CSS and Vanilla Javascript.",
     image: '/images/simple.jpg',
     tags: ['HTML', 'CSS', 'Javascript'],
-    source: 'https://google.com',
+    source: 'https://github.com/RocDev001/Simple-Interest-Calculator.git',
     visit: 'https://simple-interest-calculator-beryl.vercel.app/',
     id: 3,
   },
