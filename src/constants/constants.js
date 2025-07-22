@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Stop Watch App',
     description: "A stop watch timer built with HTML, CSS and Vanilla Javascript.",
-      image: '/images/stopwatch.jpg',
+      image: '/images/stopwatch.png',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://google.com',
     visit: 'https://stopwatch-app-coral.vercel.app/',
