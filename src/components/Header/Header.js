@@ -35,10 +35,10 @@ const Header = () =>  (
       <SocialIcons href='https://github.com/RocDev001'>
         <AiFillGithub size='3rem' />
       </SocialIcons>
-      <SocialIcons href='https://linkedin.com'>
+      <SocialIcons href='https://www.linkedin.com/in/peter-olawumi-4259a5235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>
         <AiFillLinkedin size='3rem' />
       </SocialIcons>
-      <SocialIcons href='https://instagram.com'>
+      <SocialIcons href='https://www.instagram.com/dev__roc?igsh=NnkxcXc5czBpcm1w'>
         <AiFillInstagram size='3rem' />
       </SocialIcons>
     </Div3>
